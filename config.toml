@@ -1,0 +1,3 @@
+baseURL = "https://tvs-site-wishfund.netlify.app/"
+languageCode = "en-us"
+title = "My New Hugo Site"
